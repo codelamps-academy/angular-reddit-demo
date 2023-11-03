@@ -1,4 +1,5 @@
 # Angular Reddit Project
+![Project Angular Reddit](src/assets/images/project.png)
 
 
 # AngularReddit
